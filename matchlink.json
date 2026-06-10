@@ -1,108 +1,108 @@
 {
-  "updated": "2026-06-04T00:00:00+05:45",
+  "updated": "2026-06-10T00:00:00+05:45",
   "matches": {
-    "ucl-final": {
-      "title": "Real Madrid vs Dortmund",
+    "wc-mexico-sa": {
+      "title": "Mexico vs South Africa",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
-    "epl-mci-ars": {
-      "title": "Man City vs Arsenal",
+    "wc-sk-czechia": {
+      "title": "South Korea vs Czechia",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
-    "ucl-psg-bay": {
-      "title": "PSG vs Bayern Munich",
+    "wc-can-bh": {
+      "title": "Canada vs Bosnia and Herzegovina",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
-    "epl-che-liv": {
-      "title": "Chelsea vs Liverpool",
+    "wc-usa-pg": {
+      "title": "USA vs Paraguay",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "laliga-bar-atm": {
       "title": "Barcelona vs Atletico Madrid",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "seriea-acm-int": {
       "title": "AC Milan vs Inter Milan",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "wcq-nep-mas": {
       "title": "Nepal vs Malaysia",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "wc-ind-eng": {
       "title": "India vs England",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "t20wc-aus-pak": {
       "title": "Australia vs Pakistan",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "ipl-mi-csk": {
       "title": "Mumbai Indians vs Chennai Super Kings",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "odiwc-nz-sa": {
       "title": "New Zealand vs South Africa",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "test-sl-ban": {
       "title": "Sri Lanka vs Bangladesh",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     },
     "asiacup-pak-ind": {
       "title": "Pakistan vs India",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "#" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "#" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "#" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
+        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
+        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
       ]
     }
   }
