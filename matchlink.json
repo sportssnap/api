@@ -6,8 +6,8 @@
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=1" },
         { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=3" }
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=4" }
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=4" },
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-mexico-sa&link=5" }
   ]
     },
@@ -16,8 +16,8 @@
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=1" },
         { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=3" }
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=4" }
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=4" },
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-sk-czechia&link=5" }
       ]
     },
