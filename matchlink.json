@@ -24,9 +24,11 @@
     "wc-can-bh": {
       "title": "Canada vs Bosnia and Herzegovina",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-can-bh&link=4" },
+        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-can-bh&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-can-bh&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-can-bh&link=4" },
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-can-bh&link=5" }
       ]
     },
     "wc-usa-pg": {
