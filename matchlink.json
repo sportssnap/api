@@ -75,12 +75,14 @@
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=odi-ind-afg&link=5" }
       ]
     },
-    "t20wc-aus-pak": {
-      "title": "Australia vs Pakistan",
+    "t20-wi-sl": {
+      "title": "West Indies vs Srilanka",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-wi-sl&link=1" },
+        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-wi-sl&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-wi-sl&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-wi-sl&link=4" },
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-wi-sl&link=5" }
       ]
     },
     "ipl-mi-csk": {
