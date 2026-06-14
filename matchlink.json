@@ -11,14 +11,14 @@
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-qt-szl&link=5" }
   ]
     },
-    "wc-bz-mc": {
-      "title": "Brazil vs Morocco",
+    "wc-aus-tur": {
+      "title": "Australia vs Turkey",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-bz-mc&link=1" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-bz-mc&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-bz-mc&link=3" },
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-bz-mc&link=4" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-bz-mc&link=5" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-aus-tur&link=1" },
+        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-aus-tur&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-aus-tur&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-aus-tur&link=4" },
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-aus-tur&link=5" }
       ]
     },
     "wc-haiti-scot": {
