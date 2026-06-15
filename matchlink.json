@@ -5,44 +5,56 @@
       "title": "Spain vs Cape Verde",
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=1" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=2" },
+        { "label": "Link 2 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=3" },
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=4" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=5" },
-        { "label": "Link 6 - Fox | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=6" },
-        { "label": "Link 7 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=7" },
-        { "label": "Link 8 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=8" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=4" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=5" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=7" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=8" },
         { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=9" }
   ]
     },
-    "wc-neth-jpn": {
-      "title": "Netherlands vs Japan",
+    "wc-bel-egypt": {
+      "title": "Belgium vs Egypt",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-neth-jpn&link=1" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-neth-jpn&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-neth-jpn&link=3" },
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-neth-jpn&link=4" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-neth-jpn&link=5" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=1" },
+        { "label": "Link 2 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=3" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=4" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=5" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=7" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=8" },
+        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=9" }
       ]
     },
-    "wc-ivory-ecu": {
-      "title": "Ivory Coast vs Ecuador",
+    "wc-saudi-uru": {
+      "title": "Saudi Arabia vs Uruguay",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ivory-ecu&link=4" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ivory-ecu&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ivory-ecu&link=3" },
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ivory-ecu&link=4" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ivory-ecu&link=5" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=1" },
+        { "label": "Link 2 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=3" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=4" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=5" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=7" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=8" },
+        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=9" }
       ]
     },
-    "wc-usa-pg": {
-      "title": "USA vs Paraguay",
+    "wc-iran-nzl": {
+      "title": "Iran vs New Zealand",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-usa-pg&link=4" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-usa-pg&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-usa-pg&link=3" },
-        { "label": "Link 4 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-usa-pg&link=4" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-usa-pg&link=5" }
+        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=1" },
+        { "label": "Link 2 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=3" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=4" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=5" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=7" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=8" },
+        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-spain-cape&link=9" }
       ]
     },
     "laliga-bar-atm": {
