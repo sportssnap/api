@@ -6,6 +6,7 @@
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=1" },
         { "label": "Link 2 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=2" },
+        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=10" },
         { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=3" },
         { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=4" },
         { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-france-senegal&link=5" },
