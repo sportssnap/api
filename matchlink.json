@@ -1,34 +1,34 @@
 {
   "updated": "2026-06-10T00:00:00+05:45",
   "matches": {
-    "wc-au-eg": {
-      "title": "Australia vs Egypt",
+    "wc-ca-ma": {
+      "title": "Canada vs Morocco",
       "links": [
         { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=3" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=6" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=3" },
+        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=6" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=2" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=3" },
-        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=6" },
-        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=1" },
-        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=9" },
-        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-au-eg&link=9" }
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=2" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=3" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=1" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=9" },
+        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ca-ma&link=9" }
   ]
     },
-    "wc-ar-cv": {
-      "title": "Argentina vs Cape Verde",
+    "wc-py-fr": {
+      "title": "Paraguay vs France",
       "links": [
         { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=3" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=6" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=3" },
+        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=6" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=2" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=3" },
-        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=6" },
-        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=1" },
-        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=9" },
-        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-cv&link=9" }
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=2" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=3" },
+        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=6" },
+        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=1" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=9" },
+        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-py-fr&link=9" }
       ]
     },
     "wc-co-gh": {
