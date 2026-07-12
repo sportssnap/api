@@ -33,19 +33,16 @@
         { "label": "Link 10 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-ar-sl&link=3" }
       ]
     },
-    "wc-co-gh": {
-      "title": "Colombia vs Ghana",
+    "ufc-ufc-329": {
+      "title": "UFC Live",
       "links": [
         { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=3" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=4" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=1" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=2" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=3" },
-        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=6" },
-        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=1" },
-        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=9" },
-        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-co-gh&link=9" }
+        { "label": "Good Quality", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=2" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=3" }
+        
       ]
     },
     "wc-cd-uz": {
