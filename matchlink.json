@@ -130,14 +130,14 @@
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-zw-bd&link=5" }
       ]
     },
-    "odi-ws-nz": {
-      "title": "West Indies vs New Zealand",
+    "test-ws-pk": {
+      "title": "West Indies vs Pakistan",
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=odi-ws-nz&link=2" },
-        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=odi-ws-nz&link=3" },
+        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=test-ws-pk&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=test-ws-pk&link=3" },
         { "label": "Link 4 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=odi-ws-nz&link=5" }
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=test-ws-pk&link=5" }
       ]
     },
     "t20-ban-aus": {
