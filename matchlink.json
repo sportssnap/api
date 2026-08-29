@@ -1,110 +1,116 @@
 {
   "updated": "2026-06-10T00:00:00+05:45",
   "matches": {
-    "ufc-dhant-murdoch": {
-      "title": "Road to UFC",
+    "epl-liv-nott": {
+      "title": "Liverpool vs Nottingham Forest",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-dhant-murdoch&link=1" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-dhant-murdoch&link=3" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-liv-nott&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-liv-nott&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-dhant-murdoch&link=2" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-dhant-murdochlink=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-liv-nott&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-liv-nott&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Fox 4K | Android | PC", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-liv-nott&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
   ]
     },
-    "epl-castle-liver": {
-      "title": "Newcastle United vs Liverpool",
+    "epl-afc-eve": {
+      "title": "AFC Bournemouth vs Everton",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-castle-liver&link=1" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-castle-liver&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-afc-eve&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-afc-eve&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-castle-liver&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-castle-liver&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-afc-eve&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-afc-eve&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Fox 4K | Android | PC", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-afc-eve&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "serie-fros-juv": {
-      "title": "Frosinone vs Juventus",
+    "epl-tot-new": {
+      "title": "Tottenham Hotspur vs Newcastle United",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-fros-juv&link=1" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-fros-juv&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-tot-new&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-tot-new&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-fros-juv&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-fros-juv&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-tot-new&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-tot-new&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Fox 4K | Android | PC", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-tot-new&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "ufc-ufc-329": {
-      "title": "UFC Live",
-      "links": [
-        { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=1" },
-        { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Best", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 5 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=3" },
-        { "label": "Link 6 - Android | PC | Hindi", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=2" },
-        { "label": "Link 7 - All Device", "url": "https://sportssnap.github.io/plyr/player?sportssnap=ufc-ufc-329&link=4" }
-      ]
-    },
-    "club-liv-mona": {
-      "title": "Liverpool vs Monaco",
+    "bundesliga-dort-ham": {
+      "title": "Borussia Dortmund vs Hamburger SV",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=club-liv-mona&link=1" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=club-liv-mona&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=bundesliga-dort-ham&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=bundesliga-dort-ham&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=club-liv-mona&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=club-liv-mona&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=bundesliga-dort-ham&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=bundesliga-dort-ham&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Fox 4K | Android | PC", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=bundesliga-dort-ham&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "wc-eg-ir": {
-      "title": "Egypt vs Iran",
+    "laliga-real-esp": {
+      "title": "Real Sociedad vs Espanyol",
       "links": [
-        { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=12" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=10" },
+        { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-esp&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-esp&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=12" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=5" },
-        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=1" },
-        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=11" },
-        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=8" },
-        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-eg-ir&link=9" }
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-esp&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-esp&link=4" },
+        { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-esp&link=5" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "wc-jo-ar": {
-      "title": "Jordan vs Argentina",
+    "serie-juv-par": {
+      "title": "Juventus vs Parma",
       "links": [
-        { "label": "Link 1 - All Device | SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=12" },
-        { "label": "Iphone - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=10" },
+        { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-juv-par&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-juv-par&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=13" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=5" },
-        { "label": "Link 6 - Fox | Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=1" },
-        { "label": "Link 7 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=11" },
-        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=8" },
-        { "label": "Link 9 - IOS | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=wc-jo-ar&link=9" }
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-juv-par&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-juv-par&link=4" },
+        { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=serie-juv-par&link=5" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
+      ]
+    },
+    "laliga-sevi-atle": {
+      "title": "Sevilla vs Atlético Madrid",
+      "links": [
+        { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-sevi-atle&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-sevi-atle&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-sevi-atle&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-sevi-atle&link=4" },
+        { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-sevi-atle&link=5" },
+        { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
     "wcq-nep-mas": {
@@ -165,12 +171,14 @@
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-ban-aus&link=5" }
       ]
     },
-    "odiwc-nz-sa": {
-      "title": "New Zealand vs South Africa",
+    "t20-zw-sa": {
+      "title": "Zimbabwe vs South Africa",
       "links": [
-        { "label": "Link 1 - SMOOTH", "url": "https://sportssnap.github.io/plyr/player?sportssnap=barcelona" },
-        { "label": "Link 2 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=fan" },
-        { "label": "Link 3 - ENGLISH | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=real" }
+        { "label": "Link 1 - SMOOTH", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 2 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-zw-sa&link=2" },
+        { "label": "Link 3 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-zw-sa&link=3" },
+        { "label": "Link 4 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-zw-sa&link=5" }
       ]
     },
     "test-sl-ban": {
