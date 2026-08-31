@@ -1,17 +1,17 @@
 {
   "updated": "2026-06-10T00:00:00+05:45",
   "matches": {
-    "epl-che-bri": {
-      "title": "Chelsea vs Brighton & Hove Albion",
+    "epl-villa-ars": {
+      "title": "Aston Villa vs Arsenal",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-che-bri&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-che-bri&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-villa-ars&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-villa-ars&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-che-bri&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-che-bri&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-villa-ars&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-villa-ars&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-che-bri&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=epl-villa-ars&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
@@ -65,17 +65,17 @@
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "laliga-real-mala": {
-      "title": "Real Madrid vs Málaga",
+    "laliga-barca-rayo": {
+      "title": "Barcelona vs Rayo Vallecano",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-mala&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-mala&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-barca-rayo&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-barca-rayo&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-mala&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-mala&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-barca-rayo&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-barca-rayo&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-real-mala&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=laliga-barca-rayo&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
