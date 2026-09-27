@@ -1,65 +1,65 @@
 {
   "updated": "2026-06-10T00:00:00+05:45",
   "matches": {
-    "uefa-cze-cro": {
-      "title": "Czechia vs Croatia",
+    "uefa-ser-neth": {
+      "title": "Serbia vs Netherlands",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-cze-cro&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-cze-cro&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ser-neth&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ser-neth&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-cze-cro&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-cze-cro&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ser-neth&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ser-neth&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-cze-cro&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ser-neth&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
   ]
     },
-    "uefa-eng-spa": {
-      "title": "England vs Spain",
+    "uefa-ger-gre": {
+      "title": "Germany vs Greece",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-eng-spa&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-eng-spa&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ger-gre&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ger-gre&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-eng-spa&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-eng-spa&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ger-gre&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ger-gre&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-eng-spa&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ger-gre&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "uefa-ita-bel": {
-      "title": "Italy vs Belgium",
+    "uefa-nor-por": {
+      "title": "Norway vs Portugal",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ita-bel&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ita-bel&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-nor-por&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-nor-por&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ita-bel&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ita-bel&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-nor-por&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-nor-por&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-ita-bel&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-nor-por&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
       ]
     },
-    "uefa-tur-fra": {
-      "title": "Turkiye vs France",
+    "mls-miami-san": {
+      "title": "Inter Miami CF vs Columbus Crew",
       "links": [
         { "label": "Link 1 - SMOOTH | 1080p", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-tur-fra&link=1" },
-        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-tur-fra&link=2" },
+        { "label": "Link 2 - All Device | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=mls-miami-san&link=1" },
+        { "label": "IOS - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=mls-miami-san&link=2" },
         { "label": "Link 3 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-tur-fra&link=3" },
-        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-tur-fra&link=4" },
+        { "label": "Link 4 - Android | PC |FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=mls-miami-san&link=3" },
+        { "label": "Link 5 - Android | PC | Best", "url": "https://sportssnap.github.io/plyr/player?sportssnap=mls-miami-san&link=4" },
         { "label": "Link 6 - Full HD ", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=uefa-tur-fra&link=5" },
+        { "label": "Link 7 - Android | PC", "url": "https://sportssnap.github.io/plyr/player?sportssnap=mls-miami-san&link=5" },
         { "label": "Link 8 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 9 - Android | PC | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
         { "label": "Link 10 - IOS | FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" }
