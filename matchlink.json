@@ -223,14 +223,14 @@
         { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=test-aus-afr&link=5" }
       ]
     },
-    "asian-sri-ind": {
-      "title": "Sri Lanka vs India",
+    "t20-pak-sri": {
+      "title": "Pakistan vs Sri Lanka",
       "links": [
         { "label": "Link 1 - SMOOTH", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 2 - Android | PC Only | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=asian-sri-ind&link=2" },
-        { "label": "Link 3 - Smooth | No Lag", "url": "https://sportssnap.github.io/plyr/player?sportssnap=asian-sri-ind&link=3" },
+        { "label": "Link 2 - Android | PC Only | FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-pak-sri&link=2" },
+        { "label": "Link 3 - Smooth | No Lag", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-pak-sri&link=3" },
         { "label": "Link 4 - FULL HD", "url": "https://www.effectivecpmnetwork.com/yxdpqiet5?key=930894274c3e9e9d29b57621422e906d" },
-        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=asian-sri-ind&link=5" }
+        { "label": "Link 5 - FULL HD", "url": "https://sportssnap.github.io/plyr/player?sportssnap=t20-pak-sri&link=5" }
       ]
     },
     "asiacup-pak-ind": {
